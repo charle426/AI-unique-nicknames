@@ -1,1 +1,1 @@
-# AI-unique-nicknames
+# nickname_gen
